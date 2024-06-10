@@ -1,11 +1,6 @@
-# Evaluación Cámara
+# App_fotos
 
 ## Deploy en Android con componentes de cámara
-
-### Integrantes
-* Alejandro Moreira
-* Jared Valenzuela
-* Joseph Yepez
 
 ### How to run
 * Requisitos previos:
@@ -46,4 +41,4 @@
 * Realizar pruebas exhaustivas pemite garantizar que todas las funcionalidades de la aplicación funcionen correctamente en diferentes dispositivos y condiciones.
 * Implementar un manejo adecuado de errores y excepciones en la aplicación mejora confiabilidad del software, reduciendo la posibilidad de fallos inesperados.
 * El proceso de desarrollo y despliegue de la aplicación ofrece oportunidades para mejorar habilidades de programación y fortalecer la colaboración en equipo.
-# App_fotos
+
